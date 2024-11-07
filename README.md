@@ -36,6 +36,14 @@ GCNs perform well on node classification tasks.
 GATs excel in adaptive weighting, improving performance on heterogeneous graphs.
 For details, check out our full Report.
 
+📊 Results Screenshot
+![1](https://github.com/user-attachments/assets/3fe1274d-2977-4169-bd23-d965dfc07b77)
+![2](https://github.com/user-attachments/assets/3bc31e4b-6b8e-4264-a759-0ee2878e324c)
+![3](https://github.com/user-attachments/assets/58c76847-6f73-4168-8922-5560334ac223)
+![5](https://github.com/user-attachments/assets/b33f7adc-bceb-451e-bcd9-ee0ad025163c)
+![6](https://github.com/user-attachments/assets/8755b209-59dd-43c3-957e-7c2b12839c9b)
+
+
 📅 Future Work
 In future iterations, we plan to:
 Implement dynamic graphs for real-time data updates.
